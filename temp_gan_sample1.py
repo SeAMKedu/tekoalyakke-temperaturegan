@@ -3,7 +3,6 @@
 Created on Thu Aug  4 12:56:49 2022
 
 @author: Toni Takala
-@author: Mika Valkama
 """
 
 from datetime import datetime, timedelta
