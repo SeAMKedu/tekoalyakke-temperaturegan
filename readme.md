@@ -24,6 +24,7 @@
 [dom7]:             /img/plot-dom-1.0.png
 [di7]:              /img/plot-di-1.0.png
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10682576.svg)](https://doi.org/10.5281/zenodo.10682576)
 
 # Datan luonti ja GAN 
 
